@@ -13,7 +13,18 @@ This project focuses on analyzing historical and live Bitcoin price data to:
 
 The application is built using **Python**, **Streamlit**, and popular time-series forecasting libraries.
 
----
+## 🌐 Live Demo
+
+🚀 **Access the deployed Streamlit application here:**  
+👉 https://crypto-time-series-analysis-frgajte5dlat3mdjjufb5l.streamlit.app/
+
+### What you can do in the live app:
+- View **live Bitcoin price trends**
+- Upload your own **CSV cryptocurrency data**
+- Compare forecasts using **ARIMA, Prophet, and LSTM**
+- Analyze **price volatility** and **market sentiment**
+- Interact with charts through a clean GUI
+
 
 ## 🚀 Features
 
